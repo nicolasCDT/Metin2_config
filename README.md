@@ -11,7 +11,7 @@ To compile it, you need:
 
 ## Authors
 
-* *Takuma* - metin2work@hotmail.com - [Github](https://github.com/Metin2Work)
+* *Takuma* - metin2work@hotmail.com - [Github](https://github.com/devTakuma)
 
 ## License
 
