@@ -1,6 +1,6 @@
 # Metin2 - Config
 
-A brand new config.exe coded in C #!
+A new config.exe coded in C #!
 
 ### Prerequisites
 
