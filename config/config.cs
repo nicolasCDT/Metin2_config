@@ -1,8 +1,8 @@
 ﻿///////////////////////////////////////////////////////////////
 //FileName: config.cs
 //FileType: Visual C# Source file
-//Author : Takuma <metin2work@hotmail.com>
-//Copy Rights : Metin2Work
+//Author : Takuma <work.takuma@gmail.com>
+//Copy Rights : Takuma
 //Description : Basic c# config.exe : metin2
 ///////////////////////////////////////////////////////////////
 
