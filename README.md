@@ -11,7 +11,7 @@ To compile it, you need:
 
 ## Authors
 
-* *Takuma* - [Github](https://github.com/devTakuma)
+* *Takuma* - [Github](https://github.com/nicolasCDT)
 
 ## License
 
